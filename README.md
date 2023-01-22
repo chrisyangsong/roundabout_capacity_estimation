@@ -1,1 +1,2 @@
 # roundabout_capacity_estimation
+Data and code for Song, Y., Hu, X.*, Lu, J., Zhou, X. (2022). Analytical Approximation and Calibration of Roundabout Capacity: A Merging State Transition-based Modeling Approach. Transportation Research Part B: Methodological.
